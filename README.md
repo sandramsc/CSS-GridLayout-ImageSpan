@@ -5,6 +5,3 @@
     100DaysOfCode project_five
     <br />
     </h2>
-
-
-
