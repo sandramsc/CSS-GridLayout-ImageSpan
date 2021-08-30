@@ -6,5 +6,5 @@
     <br />
     </h2>
     
-      ## Sample Example
-    ![CSS_GridLayout_ ImageSpanJPG](https://user-images.githubusercontent.com/19821445/131270293-99e826f1-6615-41df-b24e-331f16de1bb4.JPG)
+   ## Sample Example
+![CSS_GridLayout_ ImageSpanJPG](https://user-images.githubusercontent.com/19821445/131270363-40229294-07c0-4121-a66f-04f547ab356f.JPG)
